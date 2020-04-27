@@ -2,25 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Orange Hotpot&#39;s personal blog</title>
-    <link>http://example.org/posts/</link>
+    <link>https://github.com/posts/</link>
     <description>Recent content in Posts on Orange Hotpot&#39;s personal blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Apr 2020 12:25:23 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>First Personalblog</title>
-      <link>http://example.org/posts/first-personalblog/</link>
+      <title>1st Personalblog</title>
+      <link>https://github.com/posts/first-personalblog/</link>
       <pubDate>Mon, 27 Apr 2020 12:25:23 +0800</pubDate>
       
-      <guid>http://example.org/posts/first-personalblog/</guid>
-      <description>PS：
-  Install Hugo chick here
+      <guid>https://github.com/posts/first-personalblog/</guid>
+      <description>How to use hugo to write a blog   Install Hugo chick here
   Create a New Site
-  hugo new site quickstart Add a Theme Hugo Themes  cd quickstart git init git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke echo &#39;theme = &amp;quot;ananke&amp;quot;&#39; &amp;gt;&amp;gt; config.toml Add Some Content  hugo new posts/my-first-post.md Start the Hugo server [chick here]（http://localhost:1313/）  hugo server -D Customize the Theme site Configuration  code config.toml Build static pages  hugo -D   </description>
+  hugo new site quickstart Add a Theme Hugo Themes  cd quickstart git init git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke echo &#39;theme = &amp;quot;ananke&amp;quot;&#39; &amp;gt;&amp;gt; config.toml Add Some Content  hugo new posts/my-first-post.md Start the Hugo server [chick here]（http://localhost:1313/）  hugo server -D Customize the Theme site Configuration  code config.</description>
+    </item>
+    
+    <item>
+      <title>2th Personalblog</title>
+      <link>https://github.com/posts/second/</link>
+      <pubDate>Mon, 27 Apr 2020 12:25:23 +0800</pubDate>
+      
+      <guid>https://github.com/posts/second/</guid>
+      <description>How to use hugo to write a blog test 看见这一行代表这是这二个   Install Hugo chick here
+  Create a New Site
+  hugo new site quickstartAdd a Theme Hugo Themes  cd quickstartgit initgit submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/anankeecho &#39;theme = &amp;quot;ananke&amp;quot;&#39; &amp;gt;&amp;gt; config.tomlAdd Some Content  hugo new posts/my-first-post.mdStart the Hugo server [chick here]（http://localhost:1313/）  hugo server -DCustomize the Theme site Configuration  code config.</description>
     </item>
     
   </channel>
